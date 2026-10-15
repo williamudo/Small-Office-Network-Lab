@@ -2,7 +2,7 @@
 
 A simulated office network with two departments, an internal server room, and a router to an outside network. Workstations get their addresses automatically over DHCP, look up names through an internal DNS server, and browse three websites: two hosted inside the network and one reached through the router.
 
-!![image](/screenshots/topology.png)
+![image](/screenshots/topology.png)
 
 ## Skills demonstrated
 
